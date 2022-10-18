@@ -19,14 +19,14 @@ if (i == j)
 {
 continue;
 }
-if (i == '8' && j == '9')
+if (i == '8' && j =='9')
 {
 break;
 }
 else
 {
 putchar(',');
-putchar('');
+putchar ('');
 }
 }
 k++;
@@ -34,4 +34,3 @@ k++;
 putchar('\n');
 return (0);
 }
-
