@@ -8,7 +8,7 @@
 char *rot13(char *s)
 {
 	int i, j;
-	
+
 	char *x = 
 "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
 	char *y =
